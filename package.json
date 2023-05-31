@@ -1,0 +1,17 @@
+{
+  "name": "heedful",
+  "version": "1.0.0",
+  "description": "Observe nested changes on (almost) anything",
+  "license": "MIT",
+  "type": "module",
+  "author": "Andrew Carpenter",
+  "repository": "https://github.com/doesdev/heedful",
+  "scripts": {
+    "test": "mvt --verbose"
+  },
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "mvt": "next",
+    "standard": "^17.1.0"
+  }
+}
