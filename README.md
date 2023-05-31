@@ -8,9 +8,6 @@
 $ npm install --save heedful
 ```
 
-## api
-- **someArgument** *(argumentType - required|optional)*
-
 ## usage
 
 ```js
